@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: khaki;
+    width: auto;
+}
+
+.container-fluid {
+    background-color: beige;
+}
+
+footer {
+
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
